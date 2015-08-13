@@ -1,0 +1,39 @@
+QuizAPP RnD project :
+project URL : https://github.com/prateekchandan/Arkenstone-quizapp-server
+live URL : http://bodhitree3.cse.iitb.ac.in:8080/
+
+
+Remote Desktop Connection
+Project URL : https://github.com/prateekchandan/Remote-Desktop-Connection
+
+
+Transformer Modelling OpenGL:
+Project URL : https://github.com/prateekchandan/cs475
+Video URL : https://www.youtube.com/watch?v=U52283hqNVs
+
+Machine Translation (English to SQL Convertor):
+The Presentation URL : http://www.prateekchandan.me/english-to-sql
+Project Code : https://github.com/shyamjvs/cs626_project
+
+Compiles Project:
+Project URL : https://bitbucket.org/prateekchandan/cs306-compilerslab
+
+Implementation of Thread in GeekOS:
+Project URL : https://github.com/adityakumarakash/GeekOS
+
+Hard Disk Simulator:
+Project URL : https://github.com/prateekchandan/Disk-Arm-Simulator
+
+Voice Controlled Bot:
+Project Wiki : http://www.stab-iitb.org/wiki/1RE22_Voice_Controlled_Bot
+Project Codes : https://github.com/prateekchandan/Voice-Controlled-Biped-Bot
+Video URL : https://www.youtube.com/watch?v=CA1eNgIwgEY
+https://www.youtube.com/watch?v=TqDJe8RzJvM
+
+
+Sudoku Problem Generator and Solver:
+Sudoku Codes : https://github.com/prateekchandan/Sudoku
+Working Demo : http://home.iitb.ac.in/~prateekchandan/Sudoku/sudoku.html
+
+
+
